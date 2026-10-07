@@ -1,0 +1,5 @@
+telegram_char_bot/.env
+telegram_char_bot/bot_state.json
+telegram_char_bot/bot_state.tmp
+__pycache__/
+*.pyc
